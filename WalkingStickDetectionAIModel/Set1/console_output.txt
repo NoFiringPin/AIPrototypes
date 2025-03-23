@@ -1,0 +1,24 @@
+X: 1.417969  Y: 0.652344 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.417969  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.417969  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.652344 Z: 9.609375  m/s^2
+Normal speed
+X: 1.457031  Y: 0.613281 Z: 9.609375  m/s^2
+Normal speed
+X: 0.304688  Y: 0.496094 Z: 9.269531  m/s^2
+Normal speed
+X: 1.226562  Y: 1.417969 Z: 9.609375  m/s^2
+Normal speed
+X: 3.371094  Y: 0.304688 Z: 10.875000  m/s^2
+Over speed
